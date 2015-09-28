@@ -4,5 +4,6 @@ public class ProcessInfo {
 	public int totalSubNumber=0;
 	public String oriDataDir="";
 	public String multiRunOutPutDir="";
+	//
 
 }
